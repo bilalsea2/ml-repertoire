@@ -1,6 +1,0 @@
-[submodule "Integrated-Gradients"]
-	path = Integrated-Gradients
-	url = git@github.com:bilalsns/Integrated-Gradients.git
-[submodule "NN_basics"]
-	path = NN_basics
-	url = git@github.com:bilalsns/NN_basics.git
