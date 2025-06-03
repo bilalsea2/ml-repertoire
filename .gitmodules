@@ -1,0 +1,3 @@
+[submodule "Integrated-Gradients"]
+	path = Integrated-Gradients
+	url = git@github.com:bilalsns/Integrated-Gradients.git
